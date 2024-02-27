@@ -1,0 +1,6 @@
+outs:
+- md5: c72126435ef75348ba5844d20d8e3cf6.dir
+  size: 1353130
+  nfiles: 37
+  hash: md5
+  path: val_prueba

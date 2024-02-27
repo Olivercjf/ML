@@ -1,0 +1,6 @@
+outs:
+- md5: 4b94ef90ad5a79d5f80e1665bb885847.dir
+  size: 24469445
+  nfiles: 601
+  hash: md5
+  path: train_folder

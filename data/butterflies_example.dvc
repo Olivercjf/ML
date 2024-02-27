@@ -1,0 +1,6 @@
+outs:
+- md5: 4ad76390110b2144b09e847ef2df3a84.dir
+  size: 1030310
+  nfiles: 17
+  hash: md5
+  path: butterflies_example
