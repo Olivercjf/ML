@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "google_drive_ml_project"']
+    url = gdrive://1sfgnBfGSftlovZjAe99-gPDnALOMdUQ_
+['remote "myremote"']
+    url = gdrive://ML_Project
