@@ -1,0 +1,6 @@
+train: /home/oliver18/Documents/ML/ML/data/train_folder/
+val: /home/oliver18/Documents/ML/ML/data/val_folder/
+
+nc: 1
+
+names: ["butterfly"]
