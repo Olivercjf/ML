@@ -1,5 +1,5 @@
 train: #no data train
-val: /home/oliver18/Documents/ML/ML/data/butterflies_example/
+val: /./butterflies_example/
 
 nc: 1
 
